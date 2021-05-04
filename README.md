@@ -11,7 +11,7 @@ Apache/2.4.46 <br>
   /config/configDB.php 
 * enter your data in settings:
   /config/settings.php
-* run migrations
+* run migrations (path: sql/run_migrations.php)
 * add sql/soft-delete.php and sql/backup.php in cron list
 
 
