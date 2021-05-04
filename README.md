@@ -7,6 +7,7 @@ Apache/2.4.46 <br>
 
 ### **Getting Started**<br>
 * clone the repository to your host
+* create DB
 * enter your data in:
   /config/configDB.php 
 * enter your data in settings:
